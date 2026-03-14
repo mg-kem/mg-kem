@@ -16,8 +16,8 @@ Testing Library / Vitest
 ## Projects
 
 ### Six Cities
-
-SPA for apartment rental search.
+React + TypeScript SPA with Redux Toolkit,
+authentication and REST API integration for apartment rental search.
 
 Stack:
 React, TypeScript, Redux Toolkit, REST API
@@ -30,8 +30,8 @@ https://github.com/mg-kem/44605-six-cities-3
 
 
 ### Big Trip
-
-Event planning application built with MVP architecture.
+Event planning application using MVP architecture
+and vanilla JavaScript.
 
 Stack:
 Vanilla JS, Webpack, architecture patterns
