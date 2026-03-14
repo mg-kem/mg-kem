@@ -1,16 +1,43 @@
-## Hi there 👋
+# Dmitry Gilev
 
-<!--
-**mg-kem/mg-kem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer (React / TypeScript)
 
-Here are some ideas to get you started:
+I build SPA applications with modern frontend stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+React  
+TypeScript  
+Redux Toolkit  
+REST API  
+Vite / Webpack  
+Testing Library / Vitest  
+
+## Projects
+
+### Six Cities
+
+SPA for apartment rental search.
+
+Stack:
+React, TypeScript, Redux Toolkit, REST API
+
+Live Demo:
+https://six-sities-seven.vercel.app/
+
+Repository:
+https://github.com/mg-kem/44605-six-cities-3
+
+
+### Big Trip
+
+Event planning application built with MVP architecture.
+
+Stack:
+Vanilla JS, Webpack, architecture patterns
+
+Live Demo:
+https://44605-big-trip-2.vercel.app/
+
+Repository:
+https://github.com/mg-kem/44605-big-trip-2
